@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nitalearn.github.io/resume/sitemap.xml
